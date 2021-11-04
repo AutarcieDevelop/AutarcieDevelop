@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AutarcieDevelop
+- 👀 I’m interested in robotics, data management & mobile development
+- 🌱 I’m currently learning Flutter, Python & Java (SpringBoot)
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me ? Contact me at mohamedeljelali.pro@gmail.com
